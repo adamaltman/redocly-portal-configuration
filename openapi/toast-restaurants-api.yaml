@@ -9,6 +9,7 @@ schemes:
   - https
 host: toast-api-server
 basePath: /restaurants/v1
+contact: Toast developer support
 consumes:
   - application/json
 produces:
